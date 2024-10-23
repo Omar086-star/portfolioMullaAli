@@ -8,7 +8,7 @@ import './StylesComponents.scss';
 export default function TypingEffect() {
   const [displayedText, setDisplayedText] = useState(''); // État pour le texte affiché
   const [canPlaySound, setCanPlaySound] = useState(false); // État pour autoriser la lecture du son
-  const fullText = " Bonjour mes amis ! Bienvenue sur mon nouveau portfolio. Je suis Omar, développeur web. N'hésitez pas à me contacter si vous le souhaitez. À bientôt !";
+  const fullText = "   Bonjour mes amis ! Bienvenue sur mon nouveau portfolio. Je suis Omar, développeur web. N'hésitez pas à me contacter si vous le souhaitez. À bientôt !";
   const typingSpeed = 200; // Vitesse d'affichage des caractères (ralenti à 200ms par caractère)
   const delayBeforeRestart = 2000; // Attente de 2 secondes avant de recommencer
 
