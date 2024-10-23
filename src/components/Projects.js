@@ -7,8 +7,9 @@ import Vieux from '../Images/vieux.png';
 import Kasa from '../Images/kasa.png';
 import Qwenta from '../Images/veille.png';
 import { Link } from 'react-router-dom';
-import githubIcon from '../Images/phgit.png';
+import githubIcon from '../Images/vv.png';
 import browserIcon from '../Images/bro.png';
+
 
 const projectsData = [
   {

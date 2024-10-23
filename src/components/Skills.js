@@ -8,6 +8,7 @@ import cssLogo from '../Images/phcss.png';
 import reactLogo from '../Images/phre.png';
 import nodeJsLogo from '../Images/phnode.png';
 import scssLogo from '../Images/phscss.png';
+import bootstrap  from '../Images/bootstrap.png';
 
 // Import des logos pour les outils
 import mongoLogo from '../Images/phmongodb.png';  // MongoDB logo
@@ -18,6 +19,9 @@ import chatGptLogo from '../Images/phchat.png';  // ChatGPT logo
 import canvaLogo from '../Images/phcanava.jpg';  // Canva logo
 import githubLogo from '../Images/phub.png';  // Canva logo
 import gitLogo from '../Images/phgit.png';  // Canva logo
+import Postman from '../Images/postman.png';  // Canva logo
+import Scrum from '../Images/scrum.png';  // Canva logo
+import Waclet from '../Images/waclect.jpg';  // Canva logo
 
 const skillsData = [
   { skill: 'JavaScript', level: 80, logo: jsLogo },
@@ -26,6 +30,8 @@ const skillsData = [
   { skill: 'CSS', level: 95, logo: cssLogo },
   { skill: 'Node.js', level: 80, logo: nodeJsLogo },
   { skill: 'SCSS', level: 70, logo: scssLogo },
+  { skill: 'bootstrap ', level: 70, logo: bootstrap },
+
 ];
 
 const toolsData = [
@@ -36,7 +42,10 @@ const toolsData = [
   { tool: 'ChatGPT', logo: chatGptLogo },
   { tool: 'Canva', logo: canvaLogo },
   { tool: 'GitHub', logo: githubLogo },
-  { tool: 'GitHub', logo: gitLogo },
+  { tool: 'Postman', logo: Postman },
+  { tool: 'Scrum', logo: Scrum },
+  { tool: 'Wacelet', logo: Waclet },
+  { tool: 'Git', logo: gitLogo },
 
 ];
 

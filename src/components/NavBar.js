@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './StylesComponents.scss';
 import { Link } from 'react-router-dom';
-import Logo from '../Images/modified_logo (1).webp'; 
+import Logo from '../Images/modif.webp'; 
 
 export default function NavBar() {
   // Définir un état pour gérer la visibilité de la liste des projets

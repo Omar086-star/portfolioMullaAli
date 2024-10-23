@@ -1,7 +1,7 @@
 // Footer.js
 import React from 'react';
 import './StylesComponents.scss'; // Assurez-vous d'avoir un fichier CSS/SCSS pour le style
-import Logo from '../Images/modified_logo (1).webp'; // Mettez le bon chemin vers votre logo
+import Logo from '../Images/modif.webp'; // Mettez le bon chemin vers votre logo
 
 const Footer = () => {
     return (
