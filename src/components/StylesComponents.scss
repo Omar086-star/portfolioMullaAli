@@ -463,7 +463,8 @@ opacity: 1;
 
     .skill-logo {
       width: 50px;
-      height: auto;
+      height: 50px;
+      border-radius: 20%;
       margin-bottom: 10px;
     }
 
@@ -499,16 +500,23 @@ opacity: 1;
       width: 50px;
       height: 50px;
       margin-bottom: 10px;
+      border-radius: 20%;
     }
   }
 }
+.skill-logo{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-radius: 20%;
+}
 .tool-logo:hover{
 scale: 1.05;
-border: 3px solid #007bff;
+border: 3px solid #ffffff;
 }
 .skill-logo:hover{
   scale: 1.05;
-  border: 3px solid #007bff;
+  border: 3px solid #ffffff;
 }
 
 // contatct
@@ -715,6 +723,7 @@ border-radius: 25px;}
   .SocialMedia-Row img {
     width: 38px;
     height: 38px;
+    border-radius: 50%;
     transition: transform 0.3s ease;
     border: 2px solid #9ac8eb; /* Bordure bleu pastel autour des icônes sociales */
 
@@ -731,9 +740,12 @@ border-radius: 25px;}
     height: auto; /* Garde le ratio */
     margin-right: 5px; /* Espace entre l'icône et le texte */
   border-radius: 50%;
+  color: #f6f202;
   }
   .icon:hover{
     scale: 1.05;
+    color:#5784ba;
+    transition: 0.5s;
   }
 
 
@@ -769,11 +781,15 @@ border-radius: 25px;}
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+   transition: background-color 0.3s ease;
 }
 
 .cv-download-button button:hover {
   background-color: #0056b3; /* Darker blue on hover */
+transform: translateY(10px);
+border: 2px dotted #fff;
+transition: 1s;
+
 }
 
 @media (max-width:776px){
