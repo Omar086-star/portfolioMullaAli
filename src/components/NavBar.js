@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './StylesComponents.scss';
 import { Link } from 'react-router-dom';
 import Logo from '../Images/modif.webp'; 
-
+// import Plan from '../pages/Plan'
 export default function NavBar() {
   // Définir un état pour gérer la visibilité de la liste des projets
   const [isDropdownVisible, setDropdownVisible] = useState(false);
@@ -63,6 +63,12 @@ export default function NavBar() {
                 </ul>
               )}
             </li>
+            <li>
+          <Link to="/">Home</Link> {/* Lien vers la page d'accueil */}
+        </li>
+        <li>
+          <Link to="/roadmap">Roadmap</Link> {/* Lien vers la page Plan */}
+        </li>
             <li>
               <a href="#skills">Compétences</a>
             </li>
