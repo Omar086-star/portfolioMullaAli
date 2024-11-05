@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolioMullaAli/static/css/main.5b4e5d44.css",
-    "main.js": "/portfolioMullaAli/static/js/main.498b1b25.js",
+    "main.css": "/portfolioMullaAli/static/css/main.2c05774d.css",
+    "main.js": "/portfolioMullaAli/static/js/main.f8524a12.js",
     "static/media/sophi.png": "/portfolioMullaAli/static/media/sophi.a46afd4502be50a8ea67.png",
     "static/media/booki.png": "/portfolioMullaAli/static/media/booki.a59f4f908fe1412f1c61.png",
     "static/media/veille.png": "/portfolioMullaAli/static/media/veille.c1de56723f2c09fe8a9e.png",
@@ -9,14 +9,14 @@
     "static/media/nina 2024-10-04 214819.png": "/portfolioMullaAli/static/media/nina 2024-10-04 214819.e1df90c37c92a68196bb.png",
     "static/media/he-removebg-preview.png": "/portfolioMullaAli/static/media/he-removebg-preview.193e432d1946c08dbc5a.png",
     "static/media/modif.webp": "/portfolioMullaAli/static/media/modif.1ec7927531f177f098e9.webp",
-    "static/media/New CV.pdf": "/portfolioMullaAli/static/media/New CV.986f69c0a8dde7aa4128.pdf",
+    "static/media/New CV.pdf": "/portfolioMullaAli/static/media/New CV.41bee2c10f5fcc82a384.pdf",
     "static/media/vieux.png": "/portfolioMullaAli/static/media/vieux.507c8cb39154a42c1d14.png",
     "index.html": "/portfolioMullaAli/index.html",
-    "main.5b4e5d44.css.map": "/portfolioMullaAli/static/css/main.5b4e5d44.css.map",
-    "main.498b1b25.js.map": "/portfolioMullaAli/static/js/main.498b1b25.js.map"
+    "main.2c05774d.css.map": "/portfolioMullaAli/static/css/main.2c05774d.css.map",
+    "main.f8524a12.js.map": "/portfolioMullaAli/static/js/main.f8524a12.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b4e5d44.css",
-    "static/js/main.498b1b25.js"
+    "static/css/main.2c05774d.css",
+    "static/js/main.f8524a12.js"
   ]
 }
